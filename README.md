@@ -4,4 +4,4 @@
 
 | #  | Project                              | Live Demo                                     |
 | -  | ------------------------------------ | --------------------------------------------- |
-| 01 | [Expanding Card](01-Expanding_Card/) | [Demo](expanding-card-50p-50d.up.railway.app) |
+| 01 | [Expanding Card](01-Expanding_Card/) | [Demo](https://expanding-card-50p-50d.up.railway.app) |
