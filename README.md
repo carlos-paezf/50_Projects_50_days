@@ -8,3 +8,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | -  | -------------------------------------- | ---------------------------------------------------------- |
 | 01 | [Expanding Card](./01-Expanding_Card/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/01-Expanding_Card/index.html) |
 | 02 | [Progress Steps](./02-Progress_Steps/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/02-Progress_Steps/index.html) |
+| 03 | [Rotating Navigation Animation](./03-Rotating_Navigation_Animation/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/03-Rotating_Navigation_Animation/index.html) |
