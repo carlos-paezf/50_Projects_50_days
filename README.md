@@ -2,7 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00.svg?style=for-the-badge)](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00)
 
+Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
+
 | #  | Project                                | Live Demo                                                  |
 | -  | -------------------------------------- | ---------------------------------------------------------- |
-| 01 | [Expanding Card](./01-Expanding_Card/) | [Live Demo](https://expanding-card-50p-50d.up.railway.app) |
-| 02 | [Progress Steps](./02-Progress_Steps/) | [Live Demo](https://progress-steps-50p-50d.up.railway.app) |
+| 01 | [Expanding Card](./01-Expanding_Card/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/01-Expanding_Card/index.html) |
+| 02 | [Progress Steps](./02-Progress_Steps/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/02-Progress_Steps/index.html) |
