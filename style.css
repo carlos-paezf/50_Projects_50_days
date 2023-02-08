@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+html {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
+
+body {
+    background-color: #000211;
+    color: #f9f4f4;
+    font-family: 'Muli', sans-serif;
+    margin: 0;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 99%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+h4 {
+    color: #b9b6b6;
+}
+
+h1,
+h3,
+h4 {
+    margin-bottom: 0;
+}
+
+hr {
+    width: 100%;
+}
+
+.separate {
+    height: 75%;
+    max-height: 75%;
+    width: 3px;
+    background: linear-gradient(blue, red);
+    margin: 0 3rem;
+}
+
+
+.projects {
+    display: grid;
+    align-items: center;
+    height: 75%;
+    overflow-y: auto;
+    padding: 1px 5px;
+    width: 50%;
+}
+
+table {
+    grid-column: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+thead {
+    background-color: #23232c;
+    position: sticky;
+    top: 0;
+}
+
+thead>tr {
+    border-radius: 5px 5px 0px 0px;
+    font-weight: bold;
+    color: #f9f4f4;
+    padding: 15px;
+}
+
+tr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #23232c;
+    margin-top: -1px;
+    color: #E5E1E1;
+    padding: 15px;
+}
+
+tbody tr:hover {
+    padding: 15px;
+    background-color: #1d1d25;
+}
+
+.first {
+    width: 50px;
+}
+
+.second {
+    min-width: 40%;
+    align-items: left;
+}
+
+.third {
+    min-width: 40%;
+    width: 60px;
+    text-align: center;
+}
+
+a {
+    color: rgb(157, 150, 255);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    cursor: move;
+}
+
+::-webkit-scrollbar-track {
+    background: #23232c;
+    cursor: move;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #f9f4f4;
+    cursor: move;
+    border-radius: 5px;
+}
+
+@media (max-width: 900px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .separate {
+        height: 3px;
+        width: 100%;
+        background: linear-gradient(.25turn, blue, red);
+        margin: 2rem;
+    }
+
+    .projects {
+        margin-bottom: 3rem;
+        height: auto;
+        width: 100%;
+    }
+}
