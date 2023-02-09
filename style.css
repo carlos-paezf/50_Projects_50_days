@@ -124,6 +124,7 @@ tbody tr:hover {
 
 a {
     color: rgb(157, 150, 255);
+    text-decoration: none;
 }
 
 ::-webkit-scrollbar {
