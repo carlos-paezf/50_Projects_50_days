@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Expanding Cards",
+        "urlSegment": "01-Expanding_Card"
+    },
+    {
+        "name": "Progress Steps",
+        "urlSegment": "02-Progress_Steps"
+    },
+    {
+        "name": "Rotating Navigation Animation",
+        "urlSegment": "03-Rotating_Navigation_Animation"
+    },
+    {
+        "name": "Hidden Search Widget",
+        "urlSegment": "04-Hidden_Search_Widget"
+    },
+    {
+        "name": "Blurry Loading",
+        "urlSegment": "05-Blurry_Loading"
+    },
+    {
+        "name": "Scroll Animation",
+        "urlSegment": "06-Scroll_Animation"
+    },
+    {
+        "name": "Split Landing Page",
+        "urlSegment": "07-Split_Landing_Page"
+    },
+    {
+        "name": "Form Wave",
+        "urlSegment": "08-Form_Wave"
+    }
+]
