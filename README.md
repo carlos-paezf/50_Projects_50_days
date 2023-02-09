@@ -13,3 +13,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 05 | [Blurry Loading](./05-Blurry_Loading/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/05-Blurry_Loading/index.html) |
 | 06 | [Scroll Animation](./06-Scroll_Animation/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/06-Scroll_Animation/index.html) |
 | 07 | [Split Landing Page](./07-Split_Landing_Page/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/07-Split_Landing_Page/index.html) |
+| 08 | [Form Wave](./08-Form_Wave/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/08-Form_Wave/index.html) |
