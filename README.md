@@ -11,3 +11,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 03 | [Rotating Navigation Animation](./03-Rotating_Navigation_Animation/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/03-Rotating_Navigation_Animation/index.html) |
 | 04 | [Hidden Search Widget](./04-Hidden_Search_Widget/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/04-Hidden_Search_Widget/index.html) |
 | 05 | [Blurry Loading](./05-Blurry_Loading/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/05-Blurry_Loading/index.html) |
+| 06 | [Scroll Animation](./06-Scroll_Animation/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/06-Scroll_Animation/index.html) |
