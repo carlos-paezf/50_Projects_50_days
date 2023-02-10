@@ -38,5 +38,9 @@
     {
         "name": "Dad Jokes",
         "urlSegment": "10-Dad_Jokes"
+    },
+    {
+        "name": "Event Keycodes",
+        "urlSegment": "11-Event-Keycodes"
     }
 ]
