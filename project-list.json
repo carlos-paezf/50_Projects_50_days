@@ -50,5 +50,9 @@
     {
         "name": "Random Choice Picker",
         "urlSegment": "13-Random_Choice_Picker"
+    },
+    {
+        "name": "Animated Navigation",
+        "urlSegment": "14-Animated_Navigation"
     }
 ]
