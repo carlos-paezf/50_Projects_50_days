@@ -19,3 +19,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 11 | [Event Keycodes](./11-Event-Keycodes/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/11-Event-Keycodes/index.html) |
 | 12 | [Faq Collapse](./12-Faq_Collapse/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/12-Faq_Collapse/index.html) |
 | 13 | [Random Choice Picker](./13-Random_Choice_Picker/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/13-Random_Choice_Picker/index.html) |
+| 14 | [Animated Navigation](./14-Animated_Navigation/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/14-Animated_Navigation/index.html) |
