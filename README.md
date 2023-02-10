@@ -16,3 +16,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 08 | [Form Wave](./08-Form_Wave/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/08-Form_Wave/index.html) |
 | 09 | [Sound Board](./09-Sound_Board/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/09-Sound_Board/index.html) |
 | 10 | [Dad Jokes](./10-Dad_Jokes/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/10-Dad_Jokes/index.html) |
+| 11 | [Event Keycodes](./11-Event-Keycodes/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/11-Event-Keycodes/index.html) |
