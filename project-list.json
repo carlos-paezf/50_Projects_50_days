@@ -46,5 +46,9 @@
     {
         "name": "Faq Collapse",
         "urlSegment": "12-Faq_Collapse"
+    },
+    {
+        "name": "Random Choice Picker",
+        "urlSegment": "13-Random_Choice_Picker"
     }
 ]
