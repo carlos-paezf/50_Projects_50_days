@@ -34,5 +34,9 @@
     {
         "name": "Sound Board",
         "urlSegment": "09-Sound_Board"
+    },
+    {
+        "name": "Dad Jokes",
+        "urlSegment": "10-Dad_Jokes"
     }
 ]
