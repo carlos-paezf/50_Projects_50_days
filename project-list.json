@@ -74,5 +74,9 @@
     {
         "name": "Theme Clock",
         "urlSegment": "19-Theme_Clock"
+    },
+    {
+        "name": "Button Ripple Effect",
+        "urlSegment": "20-Button_Ripple_Effect"
     }
 ]
