@@ -70,5 +70,9 @@
     {
         "name": "Background Slider",
         "urlSegment": "18-Background-Slider"
+    },
+    {
+        "name": "Theme Clock",
+        "urlSegment": "19-Theme_Clock"
     }
 ]
