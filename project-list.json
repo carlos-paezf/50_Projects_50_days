@@ -66,5 +66,9 @@
     {
         "name": "Movie App",
         "urlSegment": "17-Movie_App"
+    },
+    {
+        "name": "Background Slider",
+        "urlSegment": "18-Background-Slider"
     }
 ]
