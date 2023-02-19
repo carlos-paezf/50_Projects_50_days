@@ -23,3 +23,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 15 | [Incrementing Counter](./15-Incrementing_Counter/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/15-Incrementing_Counter/index.html) |
 | 16 | [Drink Water](./16-Drink_Water/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/16-Drink_Water/index.html) |
 | 17 | [Movie App](./17-Movie_App/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/17-Movie_App/index.html) |
+| 18 | [Background Slider](./18-Background-Slider/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/18-Background-Slider/index.html) |
