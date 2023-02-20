@@ -78,5 +78,9 @@
     {
         "name": "Button Ripple Effect",
         "urlSegment": "20-Button_Ripple_Effect"
+    },
+    {
+        "name": "Drag N Drop",
+        "urlSegment": "21-Drag_N_Drop"
     }
 ]
