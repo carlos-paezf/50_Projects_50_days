@@ -90,5 +90,9 @@
     {
         "name": "Kinetic Loader",
         "urlSegment": "23-Kinetic_Loader"
+    },
+    {
+        "name": "Content Placeholder",
+        "urlSegment": "24-Content_Placeholder"
     }
 ]
