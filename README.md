@@ -29,3 +29,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 21 | [Drag N Drop](./21-Drag_N_Drop/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/21-Drag_N_Drop/index.html) |
 | 22 | [Drawing App](./22-Drawing_App/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/22-Drawing_App/index.html) |
 | 23 | [Kinetic Loader](./23-Kinetic_Loader/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/23-Kinetic_Loader/index.html) |
+| 24 | [Content Placeholder](./24-Content_Placeholder/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/24-Content_Placeholder/index.html) |
