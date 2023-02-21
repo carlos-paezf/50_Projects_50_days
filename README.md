@@ -28,3 +28,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 20 | [Button Ripple Effect](./20-Button_Ripple_Effect/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/20-Button_Ripple_Effect/index.html) |
 | 21 | [Drag N Drop](./21-Drag_N_Drop/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/21-Drag_N_Drop/index.html) |
 | 22 | [Drawing App](./22-Drawing_App/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/22-Drawing_App/index.html) |
+| 23 | [Kinetic Loader](./23-Kinetic_Loader/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/23-Kinetic_Loader/index.html) |
