@@ -86,5 +86,9 @@
     {
         "name": "Drawing App",
         "urlSegment": "22-Drawing_App"
+    },
+    {
+        "name": "Kinetic Loader",
+        "urlSegment": "23-Kinetic_Loader"
     }
 ]
