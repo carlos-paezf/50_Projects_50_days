@@ -94,5 +94,9 @@
     {
         "name": "Content Placeholder",
         "urlSegment": "24-Content_Placeholder"
+    },
+    {
+        "name": "Sticky Navbar",
+        "urlSegment": "25-Sticky_Navbar"
     }
 ]
