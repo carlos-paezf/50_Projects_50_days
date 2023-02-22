@@ -102,5 +102,9 @@
     {
         "name": "Double Vertical Slider",
         "urlSegment": "26-Double_Vertical_Slider"
+    },
+    {
+        "name": "Toast Notification",
+        "urlSegment": "27-Toast_Notification"
     }
 ]
