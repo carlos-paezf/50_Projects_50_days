@@ -34,3 +34,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 26 | [Double Vertical Slider](./26-Double_Vertical_Slider/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/26-Double_Vertical_Slider/index.html) |
 | 27 | [Toast Notification](./27-Toast_Notification/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/27-Toast_Notification/index.html) |
 | 28 | [GitHub Profiles](./28-GitHub_Profiles/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/28-GitHub_Profiles/index.html) |
+| 29 | [Double Click Heart](./29-Double_Click_Heart/)| [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/29-Double_Click_Heart/index.html) |
