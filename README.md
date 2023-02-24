@@ -33,3 +33,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 25 | [Sticky Navbar](./25-Sticky_Navbar/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/25-Sticky_Navbar/index.html) |
 | 26 | [Double Vertical Slider](./26-Double_Vertical_Slider/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/26-Double_Vertical_Slider/index.html) |
 | 27 | [Toast Notification](./27-Toast_Notification/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/27-Toast_Notification/index.html) |
+| 28 | [GitHub Profiles](./28-GitHub_Profiles/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/28-GitHub_Profiles/index.html) |
