@@ -106,5 +106,9 @@
     {
         "name": "Toast Notification",
         "urlSegment": "27-Toast_Notification"
+    },
+    {
+        "name": "GitHub Profiles",
+        "urlSegment": "28-GitHub_Profiles"
     }
 ]
