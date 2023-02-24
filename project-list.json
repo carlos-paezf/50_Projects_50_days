@@ -114,5 +114,9 @@
     {
         "name": "Double Click Heart",
         "urlSegment": "29-Double_Click_Heart"
+    },
+    {
+        "name": "Auto Text Effect",
+        "urlSegment": "30-Auto_Text_Effect"
     }
 ]
