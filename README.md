@@ -36,3 +36,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 28 | [GitHub Profiles](./28-GitHub_Profiles/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/28-GitHub_Profiles/index.html) |
 | 29 | [Double Click Heart](./29-Double_Click_Heart/)| [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/29-Double_Click_Heart/index.html) |
 | 30 | [Auto Text Effect](./30-Auto_Text_Effect/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/30-Auto_Text_Effect/index.html) |
+| 31 | [Password Generator](./31-Password_Generator/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/31-Password_Generator/index.html) |
