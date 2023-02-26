@@ -122,5 +122,9 @@
     {
         "name": "Password Generator",
         "urlSegment": "31-Password_Generator"
+    },
+    {
+        "name": "Good Cheap Fast",
+        "urlSegment": "32-Good_Cheap_Fast"
     }
 ]
