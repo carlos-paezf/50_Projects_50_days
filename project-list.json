@@ -118,5 +118,9 @@
     {
         "name": "Auto Text Effect",
         "urlSegment": "30-Auto_Text_Effect"
+    },
+    {
+        "name": "Password Generator",
+        "urlSegment": "31-Password_Generator"
     }
 ]
