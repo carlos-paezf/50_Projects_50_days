@@ -38,3 +38,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 30 | [Auto Text Effect](./30-Auto_Text_Effect/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/30-Auto_Text_Effect/index.html) |
 | 31 | [Password Generator](./31-Password_Generator/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/31-Password_Generator/index.html) |
 | 32 | [Good Cheap Fast](./32-Good_Cheap_Fast/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/32-Good_Cheap_Fast/index.html) |
+| 33 | [Notes App](./33-Notes_App/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/33-Notes_App/index.html) |
