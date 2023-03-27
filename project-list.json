@@ -134,5 +134,9 @@
     {
         "name": "Animated Countdown",
         "urlSegment": "34-Animated_Countdown"
+    },
+    {
+        "name": "Image Carousel",
+        "urlSegment": "35-Image_Carousel"
     }
 ]
