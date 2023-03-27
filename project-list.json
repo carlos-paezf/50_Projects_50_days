@@ -130,5 +130,9 @@
     {
         "name": "Notes App",
         "urlSegment": "33-Notes_App"
+    },
+    {
+        "name": "Animated Countdown",
+        "urlSegment": "34-Animated_Countdown"
     }
 ]
