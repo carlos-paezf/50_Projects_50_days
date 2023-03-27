@@ -138,5 +138,9 @@
     {
         "name": "Image Carousel",
         "urlSegment": "35-Image_Carousel"
+    },
+    {
+        "name": "Hoverboard",
+        "urlSegment": "36-Hoverboard"
     }
 ]
