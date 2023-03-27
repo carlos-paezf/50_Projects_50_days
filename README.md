@@ -41,3 +41,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 33 | [Notes App](./33-Notes_App/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/33-Notes_App/index.html) |
 | 34 | [Animated Countdown](./34-Animated_Countdown/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/34-Animated_Countdown/index.html) |
 | 35 | [Image Carousel](./35-Image_Carousel/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/35-Image_Carousel/index.html) |
+| 36 | [Hoverboard](./36-Hoverboard/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/36-Hoverboard/index.html) |
