@@ -142,5 +142,9 @@
     {
         "name": "Hoverboard",
         "urlSegment": "36-Hoverboard"
+    },
+    {
+        "name": "Pokedex",
+        "urlSegment": "37-Pokedex"
     }
 ]
