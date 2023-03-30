@@ -150,5 +150,9 @@
     {
         "name": "Mobile Tab Navigation",
         "urlSegment": "38-Mobile_Tab_Navigation"
+    },
+    {
+        "name": "Password Strength Background",
+        "urlSegment": "39-Password_Strength_Background"
     }
 ]
