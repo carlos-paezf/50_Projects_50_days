@@ -47,3 +47,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 39 | [Password Strength Background](./39-Password_Strength_Background/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/39-Password_Strength_Background/index.html) |
 | 40 | [3d Background Boxes](./40-3d_Background_Boxes/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/40-3d_Background_Boxes/index.html) |
 | 41 | [Verify Account UI](./41-Verify_Account_UI/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/41-Verify_Account_UI/index.html) |
+| 42 | [Live User Filter](./42-Live_User_Filter/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/42-Verify_Account_UI/index.html) |
