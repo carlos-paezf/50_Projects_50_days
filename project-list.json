@@ -158,5 +158,9 @@
     {
         "name": "3d Background Boxes",
         "urlSegment": "40-3d_Background_Boxes"
+    },
+    {
+        "name": "Verify Account UI",
+        "urlSegment": "41-Verify_Account_UI"
     }
 ]
