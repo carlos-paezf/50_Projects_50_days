@@ -49,3 +49,4 @@ Web Page Demo: <https://carlos-paezf.github.io/50_Projects_50_days/>
 | 41 | [Verify Account UI](./41-Verify_Account_UI/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/41-Verify_Account_UI/index.html) |
 | 42 | [Live User Filter](./42-Live_User_Filter/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/42-Live_User_Filter/index.html) |
 | 43 | [Feedback UI Design](./43-Feedback_UI_Design/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/43-Feedback_UI_Design/index.html) |
+| 44 | [Custom Range Slider](./44-Custom_Range_Slider/) | [Live Demo](https://carlos-paezf.github.io/50_Projects_50_days/44-Custom_Range_Slider/index.html) |
