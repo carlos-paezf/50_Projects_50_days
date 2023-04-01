@@ -170,5 +170,9 @@
     {
         "name": "Feedback UI Design",
         "urlSegment": "43-Feedback_UI_Design"
+    },
+    {
+        "name": "Custom Range Slider",
+        "urlSegment": "44-Custom_Range_Slider"
     }
 ]
