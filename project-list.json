@@ -186,5 +186,9 @@
     {
         "name": "Testimonial Box Switcher",
         "urlSegment": "47-Testimonial_Box_Switcher"
+    },
+    {
+        "name": "Random Image Feed",
+        "urlSegment": "48-Random_Image_Feed"
     }
 ]
