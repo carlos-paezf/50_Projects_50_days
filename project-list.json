@@ -182,5 +182,9 @@
     {
         "name": "Quiz App",
         "urlSegment": "46-Quiz_App"
+    },
+    {
+        "name": "Testimonial Box Switcher",
+        "urlSegment": "47-Testimonial_Box_Switcher"
     }
 ]
