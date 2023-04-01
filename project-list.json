@@ -174,5 +174,9 @@
     {
         "name": "Custom Range Slider",
         "urlSegment": "44-Custom_Range_Slider"
+    },
+    {
+        "name": "Netflix Mobile Navigation",
+        "urlSegment": "45-Netflix_Mobile_Navigation"
     }
 ]
