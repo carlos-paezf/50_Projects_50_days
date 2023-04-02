@@ -194,5 +194,9 @@
     {
         "name": "TODO List",
         "urlSegment": "49-TODO_List"
+    },
+    {
+        "name": "Insect Catch Game",
+        "urlSegment": "50-Insect_Catch_Game"
     }
 ]
