@@ -1,4 +1,4 @@
-import projectList from "./project-list.json" assert { type: 'json' }
+import projectList from "./project-list.json" with { type: 'json' }
 
 
 const rows = projectList.map((project, index) => `
